@@ -1,0 +1,18 @@
+[
+  {
+    "token": "Sherlock",
+    "tag": "B-PER"
+  },
+  {
+    "token": "Holmes",
+    "tag": "I-PER"
+  },
+  {
+    "token": "Dr",
+    "tag": "B-PER"
+  },
+  {
+    "token": "London",
+    "tag": "B-GPE"
+  }
+]
