@@ -1,6 +1,6 @@
-##Project for CAS NLP module 3 - Machine learning
+## Project for CAS NLP module 3 - Machine learning
 
-###Content
+### Content
 The goal of this project is to train a neural network, explore the architecture and parameters and test their influence on model performance.
 Specifically, we have trained two separate BiLSTM models for Named Entity Recognition (NER) using the relatively small LitBank dataset (literary texts, see https://github.com/dbamman/litbank).
 The two models use different embeddings: randomly initialised vs. pre-trained FastText embeddings (300d).
