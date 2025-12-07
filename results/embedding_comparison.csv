@@ -1,3 +1,0 @@
-,f1,precision,recall,loss
-BiLSTM_Random,0.4941,0.5413,0.4545,0.544
-BiLSTM_FastText,0.4977,0.5445,0.4583,0.3464
